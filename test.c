@@ -1,13 +1,7 @@
-asdsadfsaodfjsadf.asdofiaoinfwaefpoinwav;onfa;onvafbv
-asfdb'asf
-af
-baewibaewrinbaewr
+#include <stdio.h>
 
-asdofnawef
-awef
-asdf
-awef
-awef
-asdfasd
-fasdf
-adsf
+main () {
+
+	printf("Hello world.\n");
+
+}
